@@ -1,23 +1,20 @@
-# Python DSA Journey
+# Python DSA Practice
 
-This repository contains my day-wise Data Structures and Algorithms practice in Python using Jupyter Notebook.
+This repository contains my day-wise Data Structures and Algorithms practice using Python and Jupyter Notebook.
 
 ## Topics Covered
 
 - Arrays
 - Strings
+- Searching
+- Sorting
 - Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
 
-## Tech Used
+## Tools Used
 
 - Python
 - Jupyter Notebook
 
 ## Goal
 
-To improve problem-solving skills and prepare for coding interviews and placements.
+Improving problem-solving skills and preparing for coding interviews and placements.
